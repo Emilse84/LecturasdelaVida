@@ -1,0 +1,30 @@
+*{font-style: font-family 'Poppins', sans-serif;
+    margin: 2vw;
+}
+#entero{background: linear-gradient(to bottom, rgba(206, 51, 255, 0.5), white);
+}
+
+
+#menu{background-color: black;
+    position: fixed;
+    left: 30px;
+    top: 10px;
+    width: 100%;
+    height: 10%;
+    margin: 0px;
+}
+
+#loco{text-align: center;
+    color: #8E0AB8 ;
+    font-family: 'Great Vibes', cursive;
+    
+
+}
+
+/*h2{}
+h3{}
+h4{}
+font-size: tamaño de la fuente (px, em, rem).
+● font-style: estilo de fuente (normal, italic, oblique).
+● font-family: lista de fuentes (arial, helvetica, sans-serif, etc).
+● font-weight: grosor (peso) de la fuente (bold, 400, 600, 800).*/
